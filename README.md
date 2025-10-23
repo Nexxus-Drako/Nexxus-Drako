@@ -3,7 +3,7 @@ We're a pantheon of goddesses that make games, mods, music, fiction, videos, gra
 
 - 🔭 Currently working on Video Games and Mods.
 - 🌱 Currently learning Networking and Cloud Engineering.
-- 💬 Ask about my video game modding.
+- 💬 Ask about video game modding.
 - 📫 Contact: nexxus {AT} nexxusdrako {DOT} au
 - 😄 Pronouns: she or plural they
 - ⚡ Fun fact: Was a district orienteering champion in 6th grade.
