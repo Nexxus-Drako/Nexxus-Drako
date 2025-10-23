@@ -1,10 +1,12 @@
-## Hi there 👋
-- 🔭 I’m currently working on Video Games and Mods.
-- 🌱 I’m currently learning Networking and Cloud Engineering.
-- 💬 Ask me about my video game modding.
-- 📫 How to reach me: @nexxusdrako on Discord.
-- 😄 Pronouns: she or they
-- ⚡ Fun fact: I was a district orienteering champion in 6th grade (primary school).
+## Ohayo~ 👋
+We're a pantheon of goddesses that make games, mods, music, fiction, videos, graphics, and Twitch streams.
+
+- 🔭 Currently working on Video Games and Mods.
+- 🌱 Currently learning Networking and Cloud Engineering.
+- 💬 Ask about my video game modding.
+- 📫 Contact: nexxus {AT} nexxusdrako {DOT} au
+- 😄 Pronouns: she or plural they
+- ⚡ Fun fact: Was a district orienteering champion in 6th grade.
 
 Projects Developed:
 - [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/)
