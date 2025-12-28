@@ -1,5 +1,5 @@
 ## Ohayo~ 👋
-We're a pantheon of goddesses that make games, mods, music, fiction, videos, graphics, and Twitch streams.
+Autistic trans woman and creative jack of all trades from Brisbane, Australia who trades as an author, video game developer, online content creator, and musician.
 
 - 🔭 Currently working on Video Games and Mods.
 - 🌱 Currently learning Networking and Cloud Engineering.
