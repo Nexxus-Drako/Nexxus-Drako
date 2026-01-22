@@ -7,6 +7,7 @@ Autistic trans woman and creative jack of all trades from Brisbane, Australia wh
 - 📫 Contact: nexxus {AT} nexxusdrako {DOT} au
 - 😄 Pronouns: she or plural they
 - ⚡ Fun fact: Was a district orienteering champion in 6th grade.
+- ⚡ Fun fact 2: Recieved a Credit on a UNSW Year 6 computing exam.
 
 Projects Developed:
 - [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/)
