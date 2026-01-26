@@ -24,5 +24,6 @@ Projects Developed:
 Former Accounts:
 - [CelestialRyuneko](https://github.com/CelestialRyuneko) [Lost to Schizo, 2023]
 - [JamesKnight313](https://github.com/JamesKnight313) [Lost to Transition, 2021]
+- [NexxusDrako313](https://github.com/NexxusDrako313) [Lost to Time, 2018]
 - [NexxusDrako](https://github.com/NexxusDrako) [Lost to Time, 2016]
 - [jarokngames](https://github.com/jarokngames) [Lost to Time, 2016]
