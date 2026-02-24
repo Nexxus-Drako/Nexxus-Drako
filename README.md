@@ -15,7 +15,7 @@ Autistic transfem plural system and creative jack of all trades from Brisbane, A
 - ⚡ Fun fact 3: Former volunteer for both the Albury Greens and the LGBTI Legal Service Queensland.
 - ⚡ Fun fact 4: Enjoys playing tabletop games like D&D, Magic, 7 Wonders and Coup.
 - ⚡ Fun fact 5: Ham radio licensed under callsigns VK4PKD and VK4UWU.
-- ⚠️ Warning: If this account stops being active, we've either had a schizophrenic episode, a PTSD/AuDHD episode, lost my 2FA keys, or any combo of the 3.
+- ⚠️ Warning: If this account stops being active, we've either had a schizophrenic episode, a PTSD/AuDHD episode, lost our 2FA keys, or any combo of the 3.
 
 Projects Developed:
 - [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/)
