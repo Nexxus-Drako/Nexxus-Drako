@@ -1,5 +1,5 @@
 ## Ohayo~ 👋
-Autistic transfem plural system and creative jack of all trades from Brisbane, Australia who trades as an author, video game developer, online content creator, and musician.
+Autistic trans woman and creative jack of all trades who trades as an author, video game developer, online content creator, and musician.
 
 - ❓ Informational: This user is plural, which means they have multiple persons/identities within the same body. Any words or code contributed are representative of the individual alter and not neccesarily the body as a whole.
 - 💼 CEO and Founder of [Nexxus Drako Gaming](https://github.com/NexxusDrakoGaming)
