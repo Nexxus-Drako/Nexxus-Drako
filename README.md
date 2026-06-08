@@ -2,7 +2,7 @@
 Autistic trans woman and creative jack of all trades who trades as an author, video game developer, online content creator, and musician.
 
 - ❓ Informational: This user is plural, which means they have multiple persons/identities within the same body. Any words or code contributed are representative of the individual alter and not neccesarily the body as a whole.
-- 💼 CEO and Founder of [Nexxus Drako Gaming](https://github.com/NexxusDrakoGaming)
+- 💼 CEO and Founder of [Nexxus Drako Multimedia](https://github.com/NexxusDrakoMultimedia)
 - 🔭 Currently working on Video Games/Mods.
 - 🌱 Currently learning Graphic Design.
 - 💬 Ask about video game modding.
