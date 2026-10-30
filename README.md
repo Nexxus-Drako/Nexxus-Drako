@@ -4,7 +4,7 @@ Autistic sapphic furry, plural demigirl, VTuber, and creative jack of all trades
 
 I build worlds, games, art, and music with a strong love for weird ideas, tactile design, and storytelling that feels lived in.
 
-- ❓ Informational: This user is plural, which means they have multiple persons or identities within the same body. Any words or code contributed are representative of the individual alter and not the wider community.
+- ❓ Informational: This user is plural, which means they have multiple persons or identities within the same body. Any words or code contributed are representative of the individual alter and not the system as a whole.
 - 💼 Founder and Creative Director of [Nexxus Drako Multimedia](https://github.com/NexxusDrakoMultimedia) · Self-employed since March 2017
 - 🌐 Website: [nexxusdrako.au](https://nexxusdrako.au/)
 - 🎓 Certificate III in Information Technology (Networking), TAFE NSW Albury
@@ -29,9 +29,10 @@ I build worlds, games, art, and music with a strong love for weird ideas, tactil
 - [Kitsu's Destiny](https://store.steampowered.com/app/1589290/Kitsus_Destiny/) · incremental and legacy RPG on Steam
 - [Motorsport Manager Revamped](https://www.nexusmods.com/motorsportmanager/mods/9) · gameplay overhaul mod
 - [LMAST Realism Mod](https://github.com/NexxusDrakoMultimedia/LMAST-Realism) · texture and realism mod for PCSX2
-- [Nexxus Drako Archival Project](https://nexxusdrakoarchive.itch.io/) · preservation of older releases
+- [LMAST Reverse Engineering Project](https://github.com/NexxusDrakoMultimedia/LMAST-Reverse) · reverse engineering, docs, and tools
 - [LMASTER Mod](https://github.com/NexxusDrakoMultimedia/LMASTER-Mod) · bugfix and difficulty mod for Let's Make a Soccer Team!
 - [VPF-Reverse](https://github.com/NexxusDrakoMultimedia/VPF-Reverse) · reverse engineering and technical documentation for Virtua Pro Football
+- [Nexxus Drako Archival Project](https://nexxusdrakoarchive.itch.io/) · preservation of older releases
 
 ### Former accounts
 
